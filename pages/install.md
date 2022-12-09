@@ -5,7 +5,7 @@ It may seem as though there's a lot to it at first, but the process of getting s
 
 ### First, Let's Create a GitHub Account.
 
-1. Go to the GitHub website (where you are now, or head to [https://github.com/join](https://github.com/join)) and click on the "Sign up" button in the top-right corner of the page.
+1. Go to the GitHub website (or head directly to [https://github.com/join](https://github.com/join)) and click on the "Sign up" button in the top-right corner of the page.
 
 2. Fill out the sign-up form with your name, email address, and a password, and click on the "Sign up for GitHub" button.
 
@@ -28,6 +28,10 @@ To test that it is working, open a command prompt or terminal window and type th
 This should print the version of Git that you have installed.
 
 That's it! You have now installed GitHub and the Git command-line tools. You can now use these tools to create and manage Git repositories and collaborate with others on your projects.
+
+### Git Command Line too Complex?
+
+If the command line feels intimidating to you, or if you would rather use a streamlined graphical interface, consider using GitHub desktop! Find a tutorial on how to install GitHub desktop, [click here](/pages/githubdesktop.md). 
 
 [Back to Homepage](/README.md)
 
