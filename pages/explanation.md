@@ -10,8 +10,8 @@ In addition to hosting and managing your Git repositories, GitHub also provides 
 
 Overall, GitHub is a powerful and versatile platform that can be useful for a wide range of digital projects, from small personal projects to large open source projects. Whether you are a software developer, a data scientist, or a digital artist, GitHub can help you manage and share your work with others.
 
-[Back to Homepage](README.md)
+[Back to Homepage](/README.md)
 
 ---
 
-[Back to Top](pages/explanation.md)
+[Back to Top](/pages/explanation.md)
