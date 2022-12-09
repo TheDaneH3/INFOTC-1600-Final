@@ -1,5 +1,5 @@
 # GitHub for Beginners
-### By: *Dane Cross*
+#### By: *Dane Cross*
 
 ---
 
@@ -9,6 +9,8 @@
 
 ---
 
-* [Back to Top](README.md)
+
 
 ---
+
+[Back to Top](README.md)
