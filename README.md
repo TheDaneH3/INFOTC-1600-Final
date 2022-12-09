@@ -10,4 +10,7 @@
 ---
 
 * [What is GitHub, and Why is it Useful?](/pages/explanation.md)
+
 * [How to Get Started with Git and GitHub](/pages/install.md)
+
+* [Working with Git and GitHub](/pages/workflow.md)
