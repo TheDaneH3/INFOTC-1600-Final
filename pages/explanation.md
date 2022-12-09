@@ -2,8 +2,8 @@
 
 ---
 
-[Back to Homepage](README.md)
+[Back to Homepage](/README.md)
 
 ---
 
-[Back to Top](pages/explanation.md)
+[Back to Top](/pages/explanation.md)
