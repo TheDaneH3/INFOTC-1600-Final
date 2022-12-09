@@ -16,3 +16,5 @@
 * [Working with Git and GitHub](/pages/workflow.md)
 
 * [Collaborating with others on GitHub](/pages/collaboration.md)
+
+* [Using GitHub Desktop](/pages/githubdesktop.md)
