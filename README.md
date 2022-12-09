@@ -14,3 +14,5 @@
 * [How to Get Started with Git and GitHub](/pages/install.md)
 
 * [Working with Git and GitHub](/pages/workflow.md)
+
+* [Collaborating with others on GitHub](/pages/collaboration.md)
