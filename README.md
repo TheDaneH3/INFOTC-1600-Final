@@ -8,3 +8,5 @@
 *This tutorial is intended for beginners, but intermediate GitHub users may find portions of the following information useful.*
 
 ---
+
+* [What is GitHub, and Why is it Useful?](/pages/explanation.md)
