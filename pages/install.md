@@ -37,4 +37,4 @@ If the command line feels intimidating to you, or if you would rather use a stre
 
 ---
 
-[Back to Top](/pages/explanation.md)
+[Back to Top](/pages/install.md)
