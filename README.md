@@ -9,6 +9,8 @@
 
 ---
 
+Follow these links to learn about GitHub and how to utilize it!:
+
 * [What is GitHub, and Why is it Useful?](/pages/explanation.md)
 
 * [How to Get Started with Git and GitHub](/pages/install.md)
@@ -18,3 +20,7 @@
 * [Collaborating with others on GitHub](/pages/collaboration.md)
 
 * [Using GitHub Desktop](/pages/githubdesktop.md)
+
+---
+
+Thanks for checking out this set of guides. This repository was created for the INFOTC-1600 course at the University of Missouri on 12/9/2022.
