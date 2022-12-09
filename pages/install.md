@@ -31,7 +31,7 @@ That's it! You have now installed GitHub and the Git command-line tools. You can
 
 ### Git Command Line too Complex?
 
-If the command line feels intimidating to you, or if you would rather use a streamlined graphical interface, consider using GitHub desktop! Find a tutorial on how to install GitHub desktop, [click here](/pages/githubdesktop.md). 
+If the command line feels intimidating to you, or if you would rather use a streamlined graphical interface, consider using GitHub desktop! To find a tutorial on how to install GitHub desktop, [click here](/pages/githubdesktop.md). 
 
 [Back to Homepage](/README.md)
 
