@@ -29,9 +29,9 @@ This should print the version of Git that you have installed.
 
 That's it! You have now installed GitHub and the Git command-line tools. You can now use these tools to create and manage Git repositories and collaborate with others on your projects.
 
-### Git Command Line too Complex?
+### GitHub Desktop
 
-If the command line feels intimidating to you, or if you would rather use a streamlined graphical interface, consider using GitHub desktop! To find a tutorial on how to install GitHub desktop, [click here](/pages/githubdesktop.md). 
+If the command line feels intimidating to you, or if you would rather use a streamlined graphical interface, consider using GitHub desktop! To find a tutorial on how to install GitHub and use desktop, [click here](/pages/githubdesktop.md). 
 
 [Back to Homepage](/README.md)
 
