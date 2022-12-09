@@ -8,9 +8,3 @@
 *This tutorial is intended for beginners, but intermediate GitHub users may find portions of the following information useful.*
 
 ---
-
-
-
----
-
-[Back to Top](README.md)
