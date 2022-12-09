@@ -15,8 +15,6 @@ It may seem as though there's a lot to it at first, but the process of getting s
 
 ### Let's Install Git!
 
-It is important not to confuse Git with GitHub because they are two different things. Git is a version control system that is used for managing and tracking changes to your project files, while GitHub is a platform for hosting and sharing Git repositories. 
-
 Git is a tool that you can use on your local computer to manage your project files, while GitHub is a website that provides tools for collaborating on your project with others.
 
 1. To use Git on your computer, you will need to install the Git command-line tools. To do this, go to the Git website ([https://git-scm.com](https://git-scm.com)) and download the latest version of the Git installer for your operating system.
