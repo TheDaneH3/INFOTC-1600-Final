@@ -23,4 +23,6 @@ Follow these links to learn about GitHub and how to utilize it!:
 
 ---
 
-Thanks for checking out this set of guides. This repository was created for the INFOTC-1600 course at the University of Missouri on 12/9/2022.
+If at any time, any information present in this repo is incorrect or outdated, please submit a pull request or post an issue.
+
+Thanks for checking out this short set of guides! This repository was created for the INFOTC-1600 course at the University of Missouri on 12/9/2022.
